@@ -9,7 +9,7 @@ go run main.go
 
 ```
 ### docs
-(api)[docs/api.md]
+[api](docs/api.md)
 
 ### TODO
 1. cahce
